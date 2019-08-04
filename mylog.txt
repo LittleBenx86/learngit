@@ -1,0 +1,10 @@
+    1  clear
+    2  cd F:
+    3  cd personal/learngit/
+    4  git  branch
+    5  git branch remote
+    6  git branch -r
+    7  git branch -a
+    8  git fetch
+    9  git fetch
+   10  history > mylog.txt
